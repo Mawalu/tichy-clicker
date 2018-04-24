@@ -1,0 +1,16 @@
+{
+    "name": "Tichy clicker game",
+    "short_name": "Tichy clicker",
+    "description": "Clicker game based around prof. Tichy",
+    "display": "fullscreen",
+    "theme_color": "#B12A34",
+    "background_color": "#B12A34",
+    "icons": [
+      {
+        "src": "resources/tichy_swt.jpg",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+}
+
